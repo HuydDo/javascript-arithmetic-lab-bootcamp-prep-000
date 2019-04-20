@@ -1,12 +1,12 @@
-function add(){
-  1 +3
+function add(a,b){
+  a + b
 }
-function subtract(){
-  3-2
+function subtract(a,b){
+  a-b
 }
-function multiply(){
-4*3
+function multiply(a,b){
+  a*b 
 }
-function divide(){
-  4/3
+function divide(a,b){
+  a/b 
 }
